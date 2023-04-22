@@ -6,5 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./add-task.component.css']
 })
 export class AddTaskComponent {
+  description: string = "";
+  day: string = "";
+  reminder: boolean = false;
 
 }
