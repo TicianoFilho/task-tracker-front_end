@@ -22,7 +22,7 @@
       "id": 4,
       "text": "Go to the Gym",
       "day": "April 24th at 12:00pm",
-      "reminder": false
+      "reminder": true
     }
   ]
 }
